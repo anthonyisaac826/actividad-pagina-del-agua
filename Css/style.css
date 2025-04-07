@@ -1,0 +1,5 @@
+.container {
+  display: flex; /* activar flexbox */
+  justify-content: space-evenly; /*alineacion horizontal */
+  align-items: center; /* alineacion vertical */
+}
